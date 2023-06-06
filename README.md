@@ -35,4 +35,4 @@ I am a Computer Science student
 ---
 
 ### My Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=mlwauben&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mlwauben&theme=dark&locale=nl&exclude_days=Sun%2CSat)](https://git.io/streak-stats)

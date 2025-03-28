@@ -6,12 +6,12 @@
     
   </p>
   <div id="badges">
-    <a href="https://www.hackerrank.com/mika_wauben?hr_r=1">
+<!--     <a href="https://www.hackerrank.com/mika_wauben?hr_r=1">
       <img src="https://img.shields.io/badge/HackerRank-green?logo=hackerrank&logoColor=white&style=for-the-badge" alt="HankerRank Badge"/>
     </a>
     <a href="https://leetcode.com/user6844SY/">
       <img src="https://img.shields.io/badge/LeetCode-black?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode Badge"/>
-    </a>
+    </a> -->
     <a href="https://www.linkedin.com/in/mika-wauben-4b88a2279/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>  
     </a>
@@ -22,9 +22,6 @@
     
   </p>
 </div>
-
-### About Me:
-I am a Computer Science student
 
 ---
 
